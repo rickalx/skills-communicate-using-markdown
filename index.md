@@ -19,3 +19,6 @@ function imprimirTriangulo(altura) {
 // Ejemplo de uso
 imprimirTriangulo(5);
 ```
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
